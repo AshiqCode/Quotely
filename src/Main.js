@@ -487,6 +487,7 @@ const Main = () => {
         </div>
       </header>
 
+      {/* Hero */}
       <section className="max-w-6xl mx-auto px-4 sm:px-6 pt-12 sm:pt-16 pb-10">
         <div className="rounded-3xl border border-gray-100 bg-white shadow-sm overflow-hidden">
           <div className="px-6 sm:px-10 py-10 sm:py-14 max-w-3xl">
@@ -519,6 +520,7 @@ const Main = () => {
         </div>
       </section>
 
+      {/* Collection */}
       <section id="collection" className="max-w-6xl mx-auto px-4 sm:px-6 pb-16">
         <div className="mb-8">
           <h2 className="text-2xl sm:text-3xl font-semibold text-gray-900">
